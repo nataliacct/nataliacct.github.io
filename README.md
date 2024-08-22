@@ -11,4 +11,5 @@ Institut Bisnis Nusantara  (Bachelor Of Accountancy)
 2009 - 2015
 ### Certification 
 Brevet AB (LP3I) Jakarta - 2008
+
 Brevet C (Indonesian Institute of Accountants) 2012
