@@ -37,6 +37,7 @@ Taxatio : Tax compliance, tax issue, tax law.
 #### Experience 
 
 Finance Accounting Tax Manager - PT CTXG Indonesia Berkarya 
+
 Managed Accounting activities all of entities and responsible for financial statement for internal and external purposes  
 Managed Treasury department : Sufficient funding for trading, Forex transaction, and 
 Managed finance activities : Sufficint funding for operating, cash management, cash flow forecasting, budgeting, AP, AR analysis  
