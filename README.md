@@ -13,3 +13,5 @@ Institut Bisnis Nusantara  (Bachelor Of Accountancy)
 Brevet AB (LP3I) Jakarta - 2008
 
 Brevet C (Indonesian Institute of Accountants) 2012
+
+Transfer Pricing (Ortax Indonesia) 2018
