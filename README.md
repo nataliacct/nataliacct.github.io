@@ -27,4 +27,8 @@ Accounting: Accounting principles of standard, Financial reporting, Analysis, Bo
 
 Finance : Treasury, cash flow forecasting, Budgeting, and Administration
 
+Computer : Excel, Powerpoint, Word 
+
+Accounting / Financial software: ERP, Myob, Fina, and Accurate 
+
 Taxatio : Tax compliance, tax issue, tax law. 
