@@ -34,7 +34,7 @@ Computer : Excel, Powerpoint, Word
 
 Accounting / Financial software: ERP, Myob, Fina, and Accurate 
 
-Taxatio : Tax compliance, tax issue, tax law. 
+Taxation : Tax compliance, tax issue, tax law. 
 
 
 
