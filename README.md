@@ -51,6 +51,8 @@ Oversaw the implementation of SOP and internal policies adhered to by all my tea
 
 Liaised and coordinated with external: auditor, tax officer, supplier / vendors, government, and consultant 
 
+Mentored, and led Finance, and accounting team 
+
 
  
 
