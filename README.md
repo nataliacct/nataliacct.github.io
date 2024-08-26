@@ -64,9 +64,17 @@ Mentored, and led Finance, and accounting team
 
 Responsible for accounting department 
 
-Managed finance activities 
+Managed finance activities, Monitored budgeting progress and variance analysis 
 
-Monitored project cost 
+Monitored project cost and evaluate them from finance perspective 
+
+Responsible for monthly and yearly tax
+
+Supervised Procurement department, Summary of purchasing, Purchase order, and quotation list 
+
+Monitored Bussiness Support
+
+
  
 
 
