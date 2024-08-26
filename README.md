@@ -8,6 +8,8 @@
 ## Education 
 Institut Bisnis Nusantara  (Bachelor Of Accountancy)
 2009 - 2015
+
+
 ### Certification 
 Brevet AB (LP3I) Jakarta - 2008
 
@@ -18,6 +20,7 @@ Transfer Pricing (Ortax Indonesia) 2018
 Financial Modeling (Indonesian Institute of Accountants) 2019
 
 Corporate Valuation (Indonesian Institute of Accountants) 2022
+
 
 
 #### Skills 
@@ -32,6 +35,7 @@ Computer : Excel, Powerpoint, Word
 Accounting / Financial software: ERP, Myob, Fina, and Accurate 
 
 Taxatio : Tax compliance, tax issue, tax law. 
+
 
 
 
