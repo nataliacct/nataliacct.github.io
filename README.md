@@ -49,13 +49,28 @@ Managed Treasury department : Sufficient funding for trading, Forex transaction,
 
 Managed finance activities : Sufficient funding for operating, cash management, cash flow forecasting, budgeting, AP, AR analysis  
 
-Responsible for tax compliance, computation, tax filling, reconciliation according to tax regulation 
+Responsible for tax compliance, computation, tax filling, reconciliation according to tax regulation
+
+Overviewed tax management to support tax planning, and controlled the objective of tax to manage tax effeciency and anticipate the tax risk
 
 Oversaw the implementation of SOP and internal policies adhered to by all my team 
 
 Liaised and coordinated with external: auditor, tax officer, supplier / vendors, government, and consultant 
 
 Mentored, and led Finance, and accounting team 
+
+
+Finance Accounting Tax Manager  PT Java Indoku June 2017 - April 2019
+
+Responsible for accounting department 
+
+Managed finance activities 
+
+Monitored project cost 
+ 
+
+
+
 
 
  
