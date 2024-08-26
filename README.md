@@ -37,7 +37,7 @@ Taxatio : Tax compliance, tax issue, tax law.
 
 #### Experience 
 
-Finance Accounting Tax Manager - PT CTXG Indonesia Berkarya 
+Finance Accounting Tax Manager - PT CTXG Indonesia Berkarya (Feb 10, 2022 - Dec 11 2023)
 
 Managed Accounting activities all of entities and responsible for financial statement for internal and external purposes  
 
