@@ -41,7 +41,7 @@ Taxation : Tax compliance, tax issue, tax law.
 
 #### Experience 
 
-Finance Accounting Tax Manager - PT CTXG Indonesia Berkarya (Feb 10, 2022 - Dec 11 2023)
+##### Finance Accounting Tax Manager - PT CTXG Indonesia Berkarya (Feb 10, 2022 - Dec 11 2023)
 
 Managed Accounting activities all of entities and responsible for financial statement for internal and external purposes  
 
@@ -60,7 +60,7 @@ Liaised and coordinated with external: auditor, tax officer, supplier / vendors,
 Mentored, and led Finance, and accounting team 
 
 
-Finance Accounting Tax Manager  PT Java Indoku June 2017 - April 2019
+##### Finance Accounting Tax Manager  PT Java Indoku June 2017 - April 2019
 
 Responsible for accounting department 
 
