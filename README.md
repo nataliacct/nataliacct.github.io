@@ -49,7 +49,7 @@ Managed Treasury department : Sufficient funding for trading, Forex transaction,
 
 Managed finance activities : Sufficient funding for operating, cash management, cash flow forecasting, 
 
-budgeting and variances analysis, AP and AR for aging analysis    
+Monitored budgeting and variances analysis, AP and AR for aging analysis    
 
 Responsible for tax compliance, computation, tax filling, reconciliation according to tax regulation
 
