@@ -69,7 +69,9 @@ Responsible for accounting department, reporting, accounting policies and operat
 
 Provide financial data for external auditor
 
-Managed finance activities, Monitored budgeting progress and variance analysis, cash Management, cash flow projection, and reviewed treasury reports 
+Managed finance activities, Monitored budgeting progress and variance analysis, cash Management, cash flow projection, 
+
+AP and AR for aging analisys, and reviewed treasury reports 
 
 Monitored project cost and evaluate them from finance perspective 
 
