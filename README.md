@@ -60,19 +60,26 @@ Liaised and coordinated with external: auditor, tax officer, supplier / vendors,
 Mentored, and led Finance, and accounting team 
 
 
+
 ##### Finance Accounting Tax Manager  PT Java Indoku June 2017 - April 2019
 
-Responsible for accounting department 
+Responsible for accounting department, reporting, accounting policies and operating daily
 
-Managed finance activities, Monitored budgeting progress and variance analysis 
+Provide financial data for external auditor
+
+Managed finance activities, Monitored budgeting progress and variance analysis, cash Management, cash flow projection, and reviewed treasury reports 
 
 Monitored project cost and evaluate them from finance perspective 
 
-Responsible for monthly and yearly tax
+Responsible for monthly and yearly tax, computation, reconsiliation, compliance, and tax filling 
 
 Supervised Procurement department, Summary of purchasing, Purchase order, and quotation list 
 
-Monitored Bussiness Support
+Reviewed Bussiness Support departement 
+
+Liaised and coordinated with external such as auditor, bank officer, supplier, appraisal, consultant, and tax officer 
+
+
 
 
  
