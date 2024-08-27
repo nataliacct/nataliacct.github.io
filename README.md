@@ -24,7 +24,7 @@ Corporate Valuation (Indonesian Institute of Accountants) 2022
 
 
 #### Skills 
-Interpersonal: Problem solver, Negotiation, Communication, Leadership 
+Interpersonal: Problem solver, Negotiation, Communication, Leadership, emphaty, Listening 
 
 Accounting: Accounting principles of standard, Financial reporting, Analysis, Bookkeeping
 
