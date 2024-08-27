@@ -47,7 +47,9 @@ Managed Accounting activities all of entities and responsible for financial stat
 
 Managed Treasury department : Sufficient funding for trading, Forex transaction, other liquidity assets 
 
-Managed finance activities : Sufficient funding for operating, cash management, cash flow forecasting, budgeting, AP, AR analysis  
+Managed finance activities : Sufficient funding for operating, cash management, cash flow forecasting, 
+
+budgeting and variances analysis, AP and AR for aging analysis    
 
 Responsible for tax compliance, computation, tax filling, reconciliation according to tax regulation
 
