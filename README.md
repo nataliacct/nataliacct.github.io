@@ -63,6 +63,19 @@ Mentored, and led Finance, and accounting team
 
 
 
+##### Finance Accounting Manager PT Indonesia Equipment Center May 2019 - Nov 2019
+
+Managed Accounting department 
+
+Managed Finance and Treasury activities  
+
+Supported Tax compliance, tax filling, computation monthly and yearly
+
+Reviewed AR aging for analysis, and AP 
+
+Liaised with external such as tax consultant, supplier, bank officer, tax officer
+
+
 ##### Finance Accounting Tax Manager  PT Java Indoku June 2017 - April 2019
 
 Responsible for accounting department, reporting, accounting policies and operating daily
