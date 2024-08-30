@@ -37,7 +37,9 @@ Accounting / Financial software: ERP, Myob, Fina, and Accurate
 Taxation : Tax compliance, tax issue, tax law. 
 
 
-My leadership Style is Coach-style
+##### My leadership Style 
+
+Coach - style
 
 
 #### Experience 
