@@ -39,7 +39,7 @@ Taxation : Tax compliance, tax issue, tax law.
 
 ##### My leadership Style 
 
-Coach - style
+My leadership style is Coach - style
 
 
 #### Experience 
