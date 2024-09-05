@@ -24,6 +24,7 @@ Corporate Valuation (Indonesian Institute of Accountants) 2022
 
 
 #### Skills 
+
 Interpersonal: Problem solver, Negotiation, Communication, Leadership, emphaty, Listening 
 
 Accounting: Accounting principles of standard, Financial reporting, Analysis, Bookkeeping
@@ -34,7 +35,7 @@ Computer : Excel, Powerpoint, Word
 
 Accounting / Financial software: ERP, Myob, Fina, and Accurate 
 
-Taxation : Tax compliance, tax issue, tax law. 
+Taxation : Tax compliance, tax issue, tax law and regulation, reconciliation. 
 
 
 ##### My leadership Style 
@@ -46,13 +47,13 @@ My leadership style is Coach - style
 
 ##### Finance Accounting Tax Manager - PT CTXG Indonesia Berkarya (Feb 10, 2022 - Dec 11 2023)
 
-Managed Accounting activities all of entities and responsible for financial statement for internal and external purposes  
+Managed Accounting activities all of entities and responsible provide financial statement for internal and external purposes  
 
-Managed Treasury department : Sufficient funding for trading, Forex transaction, other liquidity assets 
+Managed Treasury department : Sufficient funding for trading, Forex transaction, and other liquidity provider  
 
 Managed finance activities : Sufficient funding for operating, cash management, cash flow forecasting, 
 
-Monitored budgeting and variances analysis, AP and AR for aging analysis    
+Monitored budgeting and variances analysis, Revenue, AP and AR for aging analysis    
 
 Responsible for tax compliance, computation, tax filling, reconciliation according to tax regulation
 
@@ -60,7 +61,7 @@ Overviewed tax management to support tax planning, and controlled the objective 
 
 Oversaw the implementation of SOP and internal policies adhered to by all my team 
 
-Liaised and coordinated with external: auditor, tax officer, supplier / vendors, government, and consultant 
+Liaised and coordinated with external: auditor, bank officers, tax officer, supplier / vendors, government, and consultant 
 
 Mentored, and led Finance, and accounting team 
 
@@ -68,19 +69,19 @@ Mentored, and led Finance, and accounting team
 
 ##### Finance Accounting Manager PT Indonesia Equipment Center May 2019 - Nov 2019
 
-Managed Accounting operational 
+Managed Accounting operational: bookkeeping, general ledger, implementing of accounting principles 
 
-Advice and suggestion regarding on accounting method for bookkeeping, tax issue, and indonesia regulation  
+Advice and suggestion regarding on accounting method, tax issue, and indonesia regulation to supported operating  
 
-Managed Finance and Treasury activities
+Managed Finance and Treasury activities: Managed all payment, employee benefits, forex transactions, and working capital
 
 Provide cash flow forecasting for CFO 
 
-Supported Tax compliance, tax filling, computation monthly and yearly
+Supported Tax compliance, tax filling, computation monthly and yearly, tranfer pricing 
 
 Reviewed AR aging for analysis, Sales, Revenue, and AP 
 
-Reviewed inventorie and Cost of Good sold 
+Reviewed inventories and maintened Cost of Good sold to support financial statements 
 
 Organized fixed asset management for all entities
 
@@ -93,19 +94,25 @@ Liaised and coordinated with external such as tax consultant, supplier, bank off
 
 Responsible for accounting department, reporting, accounting policies and operating daily
 
+Reviewed financial statement for monthly, quarterly and yearly
+
 Provide financial data for external auditor
 
-Managed finance activities, Monitored budgeting progress and variance analysis, cash Management, cash flow projection, 
+Oversaw finance activities: Loan, whole payment, cash management, and cash flow operational 
 
-AP and AR for aging analisys, and reviewed treasury reports 
+Monitored budgeting progress and variance analysis for every project 
 
-Monitored project cost and evaluate them from finance perspective 
+Reviewed and monitored AP and AR for aging analisys  
+
+Provide profit and loss every project to evaluate the cost from finance perspective 
 
 Responsible for monthly and yearly tax, computation, reconsiliation, compliance, and tax filling 
 
-Supervised Procurement department, Summary of purchasing, Purchase order, and quotation list 
+Supervised HR and GA department: external correspondence, employee attendece, BPJS, Insurance, and office operational 
 
-Reviewed Bussiness Support departement 
+Supervised Procurement department: Summary of purchasing, Purchase order, and quotation list 
+
+Reviewed Bussiness Support departement: summary of project reports, Sales order from client,   
 
 Liaised and coordinated with external such as auditor, bank officer, supplier, appraisal, consultant, and tax officer 
 
