@@ -25,7 +25,7 @@ Corporate Valuation (Indonesian Institute of Accountants) 2022
 
 #### Skills 
 
-Interpersonal: Problem solver, Negotiation, Communication, Leadership, emphaty, Listening 
+Interpersonal: Problem solver, Negotiation, Communication, Leadership, Emphaty, Listening 
 
 Accounting: Accounting principles of standard, Financial reporting, Analysis, Bookkeeping
 
@@ -73,7 +73,7 @@ Managed Accounting operational: bookkeeping, general ledger, implementing of acc
 
 Advice and suggestion regarding on accounting method, tax issue, and indonesia regulation to supported operating  
 
-Managed Finance and Treasury activities: Managed all payment, employee benefits, forex transactions, and working capital
+Managed Finance and Treasury activities: Reviewed sales commission, Managed all payment, employee benefits, forex transactions, and working capital
 
 Provide cash flow forecasting for CFO 
 
@@ -102,7 +102,7 @@ Oversaw finance activities: Loan, whole payment, cash management, and cash flow 
 
 Monitored budgeting progress and variance analysis for every project 
 
-Reviewed and monitored AP and AR for aging analisys  
+Reviewed and monitored AP and AR for aging analisys to support company cash flow   
 
 Provide profit and loss every project to evaluate the cost from finance perspective 
 
