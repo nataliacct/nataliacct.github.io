@@ -35,7 +35,7 @@ Computer : Excel, Powerpoint, Word
 
 Accounting / Financial software: ERP, Myob, Fina, and Accurate 
 
-Taxation : Tax compliance, tax issue, tax law and regulation, reconciliation. 
+Taxation : Tax compliance, tax issue, tax law and regulation, tax return, reconciliation. 
 
 
 ##### My leadership Style 
