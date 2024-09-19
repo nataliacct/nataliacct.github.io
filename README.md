@@ -51,7 +51,7 @@ Managed Accounting activities all of entities and responsible provide financial 
 
 Managed Treasury department : Sufficient funding for trading, Forex transaction, and other liquidity provider  
 
-Managed finance activities : Sufficient funding for operating, cash management, cash flow forecasting, 
+Managed finance activities : Sufficient funding for operating, cash management, cash flow forecasting, provide and reviewed documents before issue to the bank
 
 Monitored budgeting and variances analysis, Revenue, AP and AR for aging analysis    
 
@@ -98,7 +98,7 @@ Reviewed financial statement for monthly, quarterly and yearly
 
 Provide financial data for external auditor
 
-Oversaw finance activities: Loan, whole payment, cash management, and cash flow operational 
+Oversaw finance activities: fundraising (loan), whole payment, cash management, and cash flow operational 
 
 Monitored budgeting progress and variance analysis for every project 
 
