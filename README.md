@@ -98,7 +98,7 @@ Reviewed financial statement for monthly, quarterly and yearly
 
 Provide financial data for external auditor
 
-Oversaw finance activities: fundraising (loan), whole payment, cash management, and cash flow operational 
+Oversaw finance activities: Loan, whole payment, cash management, and cash flow operational 
 
 Monitored budgeting progress and variance analysis for every project 
 
