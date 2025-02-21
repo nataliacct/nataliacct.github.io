@@ -49,6 +49,20 @@ My leadership style is Coach - style
 ##### Finance Manager - PT ACA Pacific Pte.Ltd (Singapore)
 
 Managed Accounting activities for Singapore entities
+Provide Financial Statements monthly, quarterly, yearly
+Provide and support financial data for external auditor
+Collecting, interpreting, and reviewing financial information
+Provide cash flow projections for the CFO
+Reviewing, monitoring, and managing budgets
+Predicting future financial trends
+Reviewed stock / Inventories and stock op name
+Managed treasury like financing invoicing (sales & purchase), forex transactions
+Managed cross-border transactions 
+Reviewed Sales, AR, and AP aging analysis 
+Responsible for AR collecting for business partner
+Reviewed GST and tax income tax computation and tax filings for Singapore entities
+Reviewed entities’ expenses for payment & operations 
+
 
 
 ##### Finance Accounting Tax Manager - PT CTXG Indonesia Berkarya (Feb 10, 2022 - Dec 11 2023)
