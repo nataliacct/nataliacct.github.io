@@ -25,7 +25,7 @@ Corporate Valuation (Indonesian Institute of Accountants) 2022
 
 #### Skills 
 
-Interpersonal: Problem solver, Negotiation, Communication, Leadership, Emphaty, Listening 
+Interpersonal: Problem solver, Negotiation, Communication, Leadership, Emphaty, Active Listening, Discipline 
 
 Accounting: Accounting principles of standard, Financial reporting, Analysis, Bookkeeping
 
@@ -46,7 +46,7 @@ My leadership style is Coach - style
 #### Experience 
 
 
-##### Finance Manager - PT ACA Pacific Pte.Ltd
+##### Finance Manager - PT ACA Pacific Pte.Ltd (Singapore)
 
 Managed Accounting activities for Singapore entities
 
