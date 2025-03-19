@@ -27,13 +27,13 @@ Corporate Valuation (Indonesian Institute of Accountants) 2022
 
 Interpersonal: Problem solver, Negotiation, Communication, Leadership, Emphaty, Active Listening, Discipline 
 
-Accounting: Accounting principles of standard, Financial reporting, Analysis, Bookkeeping
+Accounting: Accounting principles of standard, Financial reporting, Analysis, Bookkeeping, and Inrenal control
 
-Finance : Treasury, cash flow forecasting, Budgeting, and Administration
+Finance : Treasury, cash flow forecasting, Budgeting, Financial regulation, and Administration
 
 Computer : Excel, Powerpoint, Word 
 
-Accounting / Financial software: ERP, Myob, Fina, and Accurate 
+Accounting / Financial software: ERP Inforland, Myob, Fina, and Accurate 
 
 Taxation : Tax compliance, tax issue, tax law and regulation, tax return, reconciliation. 
 
