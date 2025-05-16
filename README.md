@@ -21,6 +21,8 @@ Financial Modeling (Indonesian Institute of Accountants) 2019
 
 Corporate Valuation (Indonesian Institute of Accountants) 2022
 
+ISO 27000/2013 Internal Audit (Intertek) 2023
+
 
 
 #### Skills 
@@ -31,7 +33,7 @@ Accounting: Accounting principles of standard, Financial reporting, Analysis, Bo
 
 Finance : Treasury, cash flow forecasting, Budgeting, Cash flow, Financial regulation, and Administration
 
-Computer : Excel, Powerpoint, Word 
+Software : Excel, Powerpoint, Word, Google sheet 
 
 Accounting / Financial software: ERP Inforland, Myob, Fina, and Accurate 
 
@@ -94,7 +96,7 @@ Oversaw the implementation of SOP and internal policies adhered to by all my tea
 
 Liaised and coordinated with external: auditor, bank officers, tax officer, supplier / vendors, government, and consultant 
 
-Mentored, and led Finance, and accounting team 
+Mentored, supervised, and led Finance, and accounting team 
 
 
 
@@ -106,11 +108,11 @@ Advice and suggestion regarding on accounting method, tax issue, and indonesia r
 
 Managed Finance and Treasury activities: Reviewed sales commission, Managed all payment, employee benefits, forex transactions, and working capital
 
-Provide cash flow forecasting for CFO 
+Provide cash flow forecasting for CFO and management 
 
-Supported Tax compliance, tax filling, computation monthly and yearly, tranfer pricing 
+Managed of Tax compliance, tax filling, computation monthly and yearly, tranfer pricing 
 
-Reviewed AR aging for analysis, Sales, Revenue, and AP 
+Reviewed AR aging for analysis and for collection, Sales, Revenue, and AP 
 
 Reviewed inventories and maintened Cost of Good sold to support financial statements 
 
