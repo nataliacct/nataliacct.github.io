@@ -11,6 +11,9 @@ Institut Bisnis Nusantara  (Bachelor Of Accountancy)
 
 
 ### Certification 
+
+Microsoft Office (Berkley Course) Jakarta - 2003
+
 Brevet AB (LP3I) Jakarta - 2008
 
 Brevet C (Indonesian Institute of Accountants) 2012
@@ -18,6 +21,8 @@ Brevet C (Indonesian Institute of Accountants) 2012
 Transfer Pricing (Ortax Indonesia) 2018
 
 Financial Modeling (Indonesian Institute of Accountants) 2019
+
+Englis For adult (EF) 2019
 
 Corporate Valuation (Indonesian Institute of Accountants) 2022
 
