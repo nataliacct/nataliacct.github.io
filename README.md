@@ -91,7 +91,7 @@ Managed Treasury department : Sufficient funding for trading, Forex transaction,
 
 Managed finance activities : Sufficient funding for operating, cash management, cash flow forecasting, provide and reviewed documents before issue to the bank
 
-Monitored budgeting and variances analysis
+Monitored budgeting and variances analysis compare actual to budgeting 
 
 Monitored Revenue, AP and AR for aging analysis and collections     
 
@@ -106,6 +106,7 @@ Oversaw the implementation of SOP and internal policies adhered to by all my tea
 Liaised and coordinated with external: auditor, bank officers, tax officer, supplier / vendors, government, and consultant 
 
 Mentored, supervised, and led Finance, and accounting team 
+
 
 
 
@@ -132,6 +133,8 @@ Led, trained, and mentored Finance, Accounting, and Tax team
 Liaised and coordinated with external such as tax consultant, supplier, bank officer, tax officer
 
 
+
+
 ##### Finance Accounting Tax Manager  PT Java Indoku June 2017 - April 2019
 
 Responsible for accounting department, reporting, accounting policies and operating daily
@@ -152,7 +155,7 @@ Responsible for monthly and yearly tax, computation, reconsiliation, compliance,
 
 Supervised HR and GA department: external correspondence, employee attendece, BPJS, Insurance, and office operational 
 
-Supervised Procurement department: Summary of purchasing, Purchase order, and quotation list 
+Supervised Procurement department: Summary of purchasing, Purchase order, and quotation list, and inventory 
 
 Reviewed Bussiness Support departement: summary of project reports, Sales order from client,   
 
