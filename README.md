@@ -65,7 +65,7 @@ Collecting, interpreting, and reviewing financial information
 
 Provide cash flow projections for the CFO
 
-Reviewing, monitoring, and managing budgets
+Reviewing, monitoring, and managing budgets to identify opportunity cost reduction 
 
 Predicting future financial trends
 
